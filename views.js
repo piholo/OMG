@@ -222,7 +222,7 @@ const renderConfigPage = (protocol, host, query, manifest) => {
        </head>
        <body>
            <video autoplay loop muted id="background-video">
-               <source src="https://static.vecteezy.com/system/resources/previews/001/803/236/mp4/no-signal-bad-tv-free-video.mp4" type="video/mp4">
+               <source src="https://media.istockphoto.com/id/2160133602/de/video/the-car-is-driving-on-the-road-in-the-golden-summer-sunset.mp4?s=mp4-640x640-is&k=20&c=H5t1gLqIztQDQvPk_8InqviUJyEo5BKkHfXDGTXJ_ho=">
                Il tuo browser non supporta il tag video.
            </video>
 
